@@ -12,6 +12,8 @@ Author: Robocont TM
 Licence: Regular License
 
 #Start  building with us
+Frameworks exist to save you from having to re-invent the wheel and help alleviate some of the overhead when you’re building a new site. Our framework that comes with HTML5, CSS3 and JS functions and design blocks ready to be combined together to create responsive websites. RoboFramework is a front-end framework. Our framework for developing responsive, retina ready and mobile projects.
+
 ```
 Get Started
 Grid System
