@@ -11,7 +11,7 @@ URL: http://roboframework.com
 Author: Robocont TM
 Licence: Regular License
 
-@Start  building with us
+###Start  building with us
 Frameworks exist to save you from having to re-invent the wheel and help alleviate some of the overhead when you’re building a new site. Our framework that comes with HTML5, CSS3 and JS functions and design blocks ready to be combined together to create responsive websites. RoboFramework is a front-end framework. Our framework for developing responsive, retina ready and mobile projects.
 
 ```
@@ -34,9 +34,9 @@ Other elements
 Helper Classes
 ```
 
-#Responsive Grid system
+###Responsive Grid system
 A 12 column responsive grid for easy layout creation The grid is composed of horizontal rows the max-width of the page of container. You can choose the columns width for any devices.
 
 
-#UI Form Components
+###UI Form Components
 Roboframework has the special form elemnets and UI design.  To create these special form elemnts via JS plugin very easy.
