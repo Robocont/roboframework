@@ -14,18 +14,22 @@ Licence: Regular License
 #Start  building with us
 ```
 Get Started
-Intoduction
-Components
-Installation
-Configuration
 Grid System
 Tabs
 Accordion
 Tables
 Buttons
 Form elements
+Checkboxes
+Radio Buttons
+Dropdown
+Switchers
+Inputs
 Icons
 Navigations
 Retina Ready
 Other elements
 Helper Classes
+```
+
+zxc
