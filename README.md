@@ -36,3 +36,7 @@ Helper Classes
 
 #Responsive Grid system
 A 12 column responsive grid for easy layout creation The grid is composed of horizontal rows the max-width of the page of container. You can choose the columns width for any devices.
+
+
+#UI Form Components
+Roboframework has the special form elemnets and UI design.  To create these special form elemnts via JS plugin very easy.
