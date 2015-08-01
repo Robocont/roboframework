@@ -34,4 +34,5 @@ Other elements
 Helper Classes
 ```
 
-zxc
+#Responsive Grid system
+A 12 column responsive grid for easy layout creation The grid is composed of horizontal rows the max-width of the page of container. You can choose the columns width for any devices.
